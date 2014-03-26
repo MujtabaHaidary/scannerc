@@ -3,3 +3,8 @@ How to run
 It's a simple exe program for scanning source code for security problems. 
 
 C:\> scanner-windows.exe  scanner-windows.exe scanner-windows.exe scanner-windows.exe
+
+
+The Innovationtion Research Group,
+The School of Computer Science,
+The Northwestern Polytechnical University.
